@@ -1,0 +1,11 @@
+# 数值计算
+numpy
+
+# 计算机视觉 & OpenCV
+opencv-python
+
+# 可视化
+matplotlib
+
+# YOLO 检测（ultralytics YOLOv8 / YOLOv11）
+ultralytics
